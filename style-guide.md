@@ -1,5 +1,41 @@
 # Git
 
+## Именование веток
+
+### Префиксы
+
+- `features` - используем для ветки с новым функционалом
+- `fix` - используем для ветки с каким-то фиксом
+- `update` - используем для ветки с каким-то обновлением
+
+Правильно
+
+```
+git checkout -b features/button
+```
+
+```
+git checkout -b fix/product-page
+```
+
+Неправильно
+
+```
+git checkout -b fix-product-page
+```
+
+```
+git checkout -b fix-bug
+```
+
+```
+git checkout -b fix
+```
+
+```
+git checkout -b 743578634578
+```
+
 ## Именование коммитов
 
 ### Префиксы
