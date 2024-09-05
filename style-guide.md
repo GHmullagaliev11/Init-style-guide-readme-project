@@ -81,6 +81,12 @@ git commit -m 'feat: add button'
 git commit -m 'feat: added button'
 ```
 
+Хорошей практикой указывать в какой части приложения были внесены изменения
+
+```
+git commit -m 'update(html document): change title'
+```
+
 # TypeScript
 
 ## Именование
