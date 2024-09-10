@@ -32,7 +32,7 @@ git checkout -B "nameBranch"
 
 - Создаем ветку в удаленном репозитории
 ```
-git push -U origin update/title
+git push -u origin update/title
 ```
 
 
