@@ -23,6 +23,16 @@
 }
 ```
 
+```json5
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "endOfLine": "lf"
+}
+
 # Git-ветки и удаленный репозиторий
 
 - Создание ветки и переход на неё
