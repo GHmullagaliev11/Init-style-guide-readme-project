@@ -32,6 +32,7 @@
   "trailingComma": "all",
   "endOfLine": "lf"
 }
+```
 
 # Git-ветки и удаленный репозиторий
 
